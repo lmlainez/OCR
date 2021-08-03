@@ -1,0 +1,3 @@
+DONE -Use the scalating function for all images (Image Grabber ->rename cut as read)
+DONE -Separate trainingSet and dictionary. Dictionary creates the outputs, (new outputs), training set don't.
+Add the space AND start using words.

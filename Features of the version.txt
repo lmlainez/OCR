@@ -1,0 +1,6 @@
+Images are scalated
+Exists a separation between dictionary and trainingSet
+
+The code is clean, so, if you want to add functions for reading
+or writting the dictionary or the TrainingSet, they'll be in the previous
+versio OCR 1.0
